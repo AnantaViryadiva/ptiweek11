@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 60%;
+}
+.contact {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(201, 200, 200);
+  padding-top: 8%;
+  padding-bottom: 8%;
+  padding-left: 8%;
+  padding-right: 8%;
+  width: 87%;
+}
+.df {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.round {
+  border-radius: 10%;
+  width: 400px;
+  height: 350px;
+  background: linear-gradient(to bottom, rgb(80, 201, 201) 40%,rgb(135, 236, 250) 0%);
+  margin-bottom: 40px;
+}
+
+.img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  text-align: right;
+  float: right;
+  margin-top: 20px;
+  border: solid white 8px;
+}
+
+.card-text {
+  color:rgb(3, 90, 141);
+}
+
+.nama {
+  font-family: Arial;
+  margin-top: 10px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.telp {
+  margin-top: 60px;
+}
+
+
